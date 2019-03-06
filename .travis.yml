@@ -1,10 +1,3 @@
 language: ruby
 rvm:
 - 2.6.1
-deploy:
-  provider: heroku
-  api_key: 61b1f05a18a24240b9efb2d20ebd586a
-    secure: npqlInPrER2fN1OULlc0F4Hw1ldfIcKofo/j74Q2gVYE70KAfiU6EJFpUcO05UgScAVyQBgMu0LbYHzuD22NYRA6i89VMBdIW/sIxhacQ4EoDtWaRbWH1i2ulmuflokNik/M3BDi9uvaUIRiWQh/VK4AEQWtj7gEQR8F7HXk6p0u4MfBR6i+0w2047Rs+1SQrWYegumypUJUB/WHTuAqxDHpNapjpjYQd7Wpra19CGWwiJN7/lqoDr7aKZlVSF0REOIxDllXj+/AOuUnbKtosNbhZGJ0MAKjblOXtuQ292eG65SP4iRhfd98g/3uLbIIU/eKB2PfPPpkrcvzbZJo+Ke8Xilaf83Mw9WoACMd32OsTPor7GZRySbCjZJHd08vKV7xyN1pxMnnvdUQI27CaJV5Qu3IpkZgru0gDxfTCiTPcxvV/WPFh3dww1ps10VNF5EjFEW3K+cT2dByLakPLW5xW2YvlTKgsYTSGGA4INzXpu8jbMMER0WrIQ+tl09j2MXka/wxzuiapp9Zgwnwc94CDz9ubuvX51Cs4P50stycWcZ6aVXxpT9pD9f3WSTQL1Uv0T6+U0tp8iOINQw0MHnY6lcEYVGagdZ/Ht5WaZIp+/dUgKWbN2rXr+ZTOVgfwU4ZPcH9i5UHKNknQbrLejz0nxRb5u6Pwt1Ovtzpb+I=
-  app: LP71
-  on:
-    repo: Oxyh/LP71
